@@ -27,3 +27,33 @@ ol {
 }
 
 
+.highlight {
+  color: rgb(52, 28, 6);
+  background-color: hsl(59, 100%, 81%);
+  padding: 10px;
+}
+
+.info-text {
+  font-style: italic;
+  color: #6f3000;
+  line-height: 1.6;
+}
+
+.fancy-list {
+  background-color: hsl(44, 100%, 81%);
+  padding: 15px;
+  border: 2px solid #6f3000;
+  list-style-type: square;
+}
+
+#header-section {
+  background-color: #6f3000;
+  text-align: center;
+  padding: 20px;
+}
+
+#footer-section {
+  color: #6f3000;
+  text-align: right;
+  padding: 15px;
+}
