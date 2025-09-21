@@ -57,3 +57,15 @@ ol {
   text-align: right;
   padding: 15px;
 }
+
+.list-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+    margin 20px 0;
+}
+
+.list-container > div {
+    flex: 1;
+}
