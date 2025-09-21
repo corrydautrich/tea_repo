@@ -1,0 +1,29 @@
+body {
+    background-color: hsl(59, 100%, 81%);
+    font-family: 'Times New Roman', Times, serif, sans-serif; 
+    font-size: 16px;               
+}
+
+h1 {
+    text-align: center;   
+}
+
+h2 {
+    text-align: left;     
+}
+
+p {
+    text-align: left;
+    lind-height: 1.5;
+    color: #6f3000 
+}
+
+ul {
+    color: #6f3000;
+}
+
+ol {
+   color: #6f3000;
+}
+
+
