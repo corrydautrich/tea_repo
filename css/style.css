@@ -69,3 +69,17 @@ ol {
 .list-container > div {
     flex: 1;
 }
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
